@@ -7,7 +7,7 @@ In This Program User Will Able To:
 - 𝑅𝑒𝑚𝑜𝑣𝑒 𝑆𝑡𝑢𝑑𝑒𝑛𝑡
 - 𝑉𝑖𝑒𝑤 𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝑆𝑡𝑢𝑑𝑒𝑛𝑡
 
-This Program I Found On Google Why To Create New Project For My Python Project. So I Try To create My Own System By Using Sources From Google.
+This Program I Found On Google To Create New Project For My Python Project. So I Try To create My Own System By Using Sources From Google.
 
 Feel Free To Use My Program As Reference.
 
