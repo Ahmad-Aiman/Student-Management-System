@@ -1,7 +1,7 @@
 # Student-Management-System
-Student Management System Using Python. 
 
-Im Using Google As My Main Reference To Create This System.
+Group Project Using Python
+Student Management System Using Python. 
 
 In This Program User Will Able To:
 - 𝐴𝑑𝑑 𝑆𝑡𝑢𝑑𝑒𝑛𝑡
