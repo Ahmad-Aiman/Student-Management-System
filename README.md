@@ -1,7 +1,7 @@
 # Student-Management-System
 Student Management System Using Python. 
 
-Im Using Google As My Main Sources To Create This System.
+Im Using Google As My Main Reference To Create This System.
 
 In This Program User Will Able To:
 - 𝐴𝑑𝑑 𝑆𝑡𝑢𝑑𝑒𝑛𝑡
@@ -9,7 +9,6 @@ In This Program User Will Able To:
 - 𝑅𝑒𝑚𝑜𝑣𝑒 𝑆𝑡𝑢𝑑𝑒𝑛𝑡
 - 𝑉𝑖𝑒𝑤 𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝑆𝑡𝑢𝑑𝑒𝑛𝑡
 
-Feel Free To Use My Program As Reference.
 
 If You Guys Found Any Error On This Program, Make 𝑖𝑠𝑠𝑢𝑒 On This Program
 
